@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "photo": "./img/product-card/card-1.jpg",
+      "title": "Snowboard Arena – Miejskie Kasyno",
+      "price": "599",
+      "description": "Zbuduj swoje własne kasyno miejskie z wyjątkową areną snowboardową. Stwórz nowoczesną strefę hazardową na szczycie budynku, gdzie adrenalina z zawodów snowboardowych łączy się z ekscytującymi grami kasynowymi. Idealny dla fanów miejskich przygód i sportów ekstremalnych!"
+    },
+    {
+      "id": 2,
+      "photo": "./img/product-card/card-2.jpg",
+      "title": "Wyspa Więzienna – Kasyno Morskie",
+      "price": "249",
+      "description": "Przenieś swoje kasyno na wyspę więzienną! Zbuduj tajne kasyno na środku morza, gdzie niebezpieczni więźniowie mogą ryzykować wszystko w grach hazardowych. Zorganizuj ucieczki, pościgi wodne i przygody pełne akcji! Idealny dla fanów ekstremalnych przygód i świata kasyn."
+    },
+    {
+      "id": 3,
+      "photo": "./img/product-card/card-3.jpg",
+      "title": "Posterunek Policji – Ochrona Kasyna",
+      "price": "399",
+      "description": "Zadbaj o bezpieczeństwo w mieście LEGO City, chroniąc nowe kasyno! Zbuduj posterunek policji i przechwyć złodziei próbujących obrabować kasyno. Użyj helikoptera, radiowozu i straży, aby złapać przestępców i zapewnić bezpieczeństwo w strefie hazardu!"
+    },
+    {
+      "id": 4,
+      "photo": "./img/product-card/card-4.jpg",
+      "title": "Dom na Przedmieściach – Kasyno Rodzinne",
+      "price": "349",
+      "description": "Zbuduj kasyno w uroczym domu na przedmieściach! Stwórz rodzinne kasyno, w którym wszyscy członkowie rodziny mogą brać udział w grach. Idealne połączenie relaksu i hazardu w ciepłej, domowej atmosferze. Doskonała zabawa dla całej rodziny!"
+    },
+    {
+      "id": 5,
+      "photo": "./img/product-card/card-5.jpg",
+      "title": "Domek na Drzewie – Kasyno w Lesie",
+      "price": "199",
+      "description": "Zbuduj swoje własne kasyno w sercu lasu! Umieść strefę hazardową w domku na drzewie, gdzie natura spotyka ekscytujące gry kasynowe. Idealne miejsce na relaks i rozrywkę z dala od zgiełku miasta, wśród zieleni i świeżego powietrza!"
+    },
+    {
+      "id": 6,
+      "photo": "./img/product-card/card-6.jpg",
+      "title": "Ogród Spokoju – Kasyno Zen",
+      "price": "299",
+      "description": "Zanurz się w spokojnym świecie Kasyna Zen, otoczonego bujną roślinnością i japońską architekturą. Zbuduj wyjątkowe miejsce, gdzie harmonia natury łączy się z emocjami gier kasynowych. Idealne dla tych, którzy szukają chwili relaksu w otoczeniu hazardowej rozrywki."
+    }
+  ]
+}
