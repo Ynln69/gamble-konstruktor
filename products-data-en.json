@@ -2,70 +2,70 @@
   "products": [
     {
       "id": 1,
-      "photo": "../img/product-card/card-1.jpg",
+      "photo": "../../img/product-card/card-1.jpg",
       "title": "Snowboard Arena – City Casino",
       "price": "599",
       "description": "Build your own city casino with a unique snowboard arena. Create a modern gambling zone on top of a building, where the adrenaline from snowboarding competitions meets the excitement of casino games. Perfect for fans of urban adventures and extreme sports!"
     },
     {
       "id": 2,
-      "photo": "../img/product-card/card-2.jpg",
+      "photo": "../../img/product-card/card-2.jpg",
       "title": "Prison Island – Sea Casino",
       "price": "249",
       "description": "Move your casino to a prison island! Build a secret casino in the middle of the sea, where dangerous prisoners can risk everything in gambling games. Organize escapes, water chases, and action-packed adventures! Perfect for fans of extreme adventures and the casino world."
     },
     {
       "id": 3,
-      "photo": "../img/product-card/card-3.jpg",
+      "photo": "../../img/product-card/card-3.jpg",
       "title": "Police Station – Casino Security",
       "price": "399",
       "description": "Ensure safety in LEGO City by protecting the new casino! Build a police station and intercept thieves trying to rob the casino. Use a helicopter, police car, and guards to catch criminals and ensure security in the gambling zone!"
     },
     {
       "id": 4,
-      "photo": "../img/product-card/card-4.jpg",
+      "photo": "../../img/product-card/card-4.jpg",
       "title": "Suburban House – Family Casino",
       "price": "349",
       "description": "Build a casino in a charming suburban house! Create a family-friendly casino where all family members can participate in games. The perfect combination of relaxation and gambling in a warm, homely atmosphere. Great fun for the whole family!"
     },
     {
       "id": 5,
-      "photo": "../img/product-card/card-5.jpg",
+      "photo": "../../img/product-card/card-5.jpg",
       "title": "Treehouse – Forest Casino",
       "price": "199",
       "description": "Build your own casino in the heart of the forest! Place the gambling zone in a treehouse, where nature meets exciting casino games. The perfect place for relaxation and entertainment away from the city noise, surrounded by greenery and fresh air!"
     },
     {
       "id": 6,
-      "photo": "../img/product-card/card-6.jpg",
+      "photo": "../../img/product-card/card-6.jpg",
       "title": "Garden of Serenity – Zen Casino",
       "price": "299",
       "description": "Immerse yourself in the peaceful world of Zen Casino, surrounded by lush greenery and Japanese architecture. Build a unique place where the harmony of nature meets the excitement of casino games. Perfect for those seeking a moment of relaxation in a gambling entertainment setting."
     },
     {
       "id": 7,
-      "photo": "../img/product-card/card-7.jpg",
+      "photo": "../../img/product-card/card-7.jpg",
       "title": "Himeji Castle – Samurai Casino",
       "price": "899",
       "description": "Build a majestic samurai castle where elite casino games take place. Discover secrets hidden within ancient walls and create a place where tradition meets modern gambling entertainment. Ideal for history lovers and exciting adventures!"
     },
     {
       "id": 8,
-      "photo": "../img/product-card/card-8.jpg",
+      "photo": "../../img/product-card/card-8.jpg",
       "title": "Boutique Hotel – Luxury Casino",
       "price": "799",
       "description": "Build an exclusive boutique hotel with an elegant casino, where wealth and luxury meet exciting casino games. Design prestigious rooms and entertainment areas to attract guests from around the world. The perfect place for relaxation and gaming in an opulent environment."
     },
     {
       "id": 9,
-      "photo": "../img/product-card/card-9.jpg",
+      "photo": "../../img/product-card/card-9.jpg",
       "title": "Underground Casino Minecraft – Adventure and Gambling",
       "price": "1099",
       "description": "Discover a mysterious underground casino in the world of Minecraft! Build structures full of challenges and risks, fight opponents, and collect treasures. Experience an exciting adventure where gambling meets the legendary game Minecraft. Ideal for fans of Minecraft and casino thrills!"
     },
     {
       "id": 10,
-      "photo": "../img/product-card/card-10.jpg",
+      "photo": "../../img/product-card/card-10.jpg",
       "title": "Dragon Castle – Medieval Casino",
       "price": "11000",
       "description": "Build a powerful medieval castle where legendary, dangerous gambling games take place. Create dungeons full of challenges and hidden treasures, where knights and dragons battle for gold and glory. A casino in the world of dragons and knights awaits brave players!"

@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const productsPerPage = 6;
   let currentPage = 1;
 
-  fetch("../products-en-data.json")
+  fetch("../../products-data-en.json")
     .then((response) => response.json())
     .then((data) => {
       let productsData = data.products;
@@ -75,7 +75,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
       displayProducts(currentPage);
       setupPagination();
-
     })
     .catch((error) => console.error("Error loading JSON:", error));
 });
