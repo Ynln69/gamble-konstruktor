@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
           li.classList.add("our-products-item");
 
           li.innerHTML = `
-            <a href="../../opis-produktu.html?id=${product.id}" class="our-products-link">
+            <a href="../../opis-produktu-en.html?id=${product.id}" class="our-products-link">
             <img src="${product.photo}" alt="${product.title}" class="products-item-img">
             <div class="products-item-thumb">
               <h3 class="products-item-title">
